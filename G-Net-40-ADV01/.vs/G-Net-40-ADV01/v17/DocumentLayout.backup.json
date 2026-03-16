@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\buildingeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:buildingeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\containergeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:containergeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\safelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:safelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\g-net-40-adv01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:g-net-40-adv01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\multicontrainces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\multicontrainces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\baseconstrainces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\baseconstrainces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\stackgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:stackgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\interfaceconstriances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\interfaceconstriances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\classconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\classconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\newconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\newconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\constraines\\stuctconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:constraines\\stuctconstraines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv01\\dsapair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582022-642B-45A3-858C-45B0AF641054}|G-Net-40-ADV01.csproj|solutionrelative:dsapair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericCache.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\GenericCache.cs",
+              "RelativeDocumentMoniker": "GenericCache.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\GenericCache.cs",
+              "RelativeToolTip": "GenericCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:55:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SafeList.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\SafeList.cs",
+              "RelativeDocumentMoniker": "SafeList.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\SafeList.cs",
+              "RelativeToolTip": "SafeList.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:41:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiContrainces.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\MultiContrainces.cs",
+              "RelativeDocumentMoniker": "Constraines\\MultiContrainces.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\MultiContrainces.cs",
+              "RelativeToolTip": "Constraines\\MultiContrainces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:36:43.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseConstrainces.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\BaseConstrainces.cs",
+              "RelativeDocumentMoniker": "Constraines\\BaseConstrainces.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\BaseConstrainces.cs",
+              "RelativeToolTip": "Constraines\\BaseConstrainces.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:28:24.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterfaceConstriances.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\InterfaceConstriances.cs",
+              "RelativeDocumentMoniker": "Constraines\\InterfaceConstriances.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\InterfaceConstriances.cs",
+              "RelativeToolTip": "Constraines\\InterfaceConstriances.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:06:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewConstraines.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\NewConstraines.cs",
+              "RelativeDocumentMoniker": "Constraines\\NewConstraines.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\NewConstraines.cs",
+              "RelativeToolTip": "Constraines\\NewConstraines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:57:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassConstraines.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\ClassConstraines.cs",
+              "RelativeDocumentMoniker": "Constraines\\ClassConstraines.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\ClassConstraines.cs",
+              "RelativeToolTip": "Constraines\\ClassConstraines.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:52:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StuctConstraines.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\StuctConstraines.cs",
+              "RelativeDocumentMoniker": "Constraines\\StuctConstraines.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Constraines\\StuctConstraines.cs",
+              "RelativeToolTip": "Constraines\\StuctConstraines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:47:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "G-Net-40-ADV01",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\G-Net-40-ADV01.csproj",
+              "RelativeDocumentMoniker": "G-Net-40-ADV01.csproj",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\G-Net-40-ADV01.csproj",
+              "RelativeToolTip": "G-Net-40-ADV01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T13:46:19.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StackGeneric.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\StackGeneric.cs",
+              "RelativeDocumentMoniker": "StackGeneric.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\StackGeneric.cs",
+              "RelativeToolTip": "StackGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:33:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:31:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildInGeneric.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\BuildInGeneric.cs",
+              "RelativeDocumentMoniker": "BuildInGeneric.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\BuildInGeneric.cs",
+              "RelativeToolTip": "BuildInGeneric.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:59:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DsaPair.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\DsaPair.cs",
+              "RelativeDocumentMoniker": "DsaPair.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\DsaPair.cs",
+              "RelativeToolTip": "DsaPair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:46:13.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainerGeneric.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\ContainerGeneric.cs",
+              "RelativeDocumentMoniker": "ContainerGeneric.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\ContainerGeneric.cs",
+              "RelativeToolTip": "ContainerGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:33:15.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV01\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAQwOwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:24:32.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
