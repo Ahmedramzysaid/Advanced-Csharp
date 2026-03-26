@@ -44,7 +44,7 @@ namespace G_Net_40_ADV02
 
 
             Console.WriteLine("--- Cloting and lower than  100  --- ");
-            List<Product> resultCatandPrice = ProductServices.SearchProducts(catalog, ProductServices.SearchByPriceAndCategory);
+            List<Product> resultCatandPrice = ProductServices.SearchProducts(catalog, p => p.Category == "Clothing" && p.Price < 100);
             Printing.PrintProducts(resultCatandPrice);
             Console.WriteLine(new string('=', 70));
             Console.WriteLine();
@@ -85,14 +85,22 @@ namespace G_Net_40_ADV02
 
             #region Transform Products 
             Console.WriteLine("--- Summary List --- ");
-            Printing.TransformProducts(catalog, ProductServices.SummaryList);
+             List<string> resultTransForm1=   Printing.TransformProducts(catalog, ProductServices.SummaryList);
+            foreach(var item in resultTransForm1)
+                {
+                    Console.WriteLine(item);
+            }
             Console.WriteLine(new string('=', 70));
             Console.WriteLine();
             Console.WriteLine();
 
 
             Console.WriteLine("--- Price Labels --- ");
-            Printing.TransformProducts(catalog, ProductServices.PriceLabels);
+            List<string> resultTransForm2 = Printing.TransformProducts(catalog, ProductServices.PriceLabels);
+            foreach (var item in resultTransForm2)
+            {
+                Console.WriteLine(item);
+            }
             Console.WriteLine(new string('=', 70));
             Console.WriteLine();
             Console.WriteLine();
@@ -101,7 +109,10 @@ namespace G_Net_40_ADV02
 
             #region Filter Products 
             Console.WriteLine("--- Low-Stock Alert --- ");
-            ProductServices.FilterProducts(catalog, ProductServices.CheckAboutStock);
+            List<string> asnwer = ProductServices.FilterProducts(catalog, ProductServices.CheckAboutStock);
+            foreach (var item in asnwer) {
+                Console.WriteLine(item);
+            }
             Console.WriteLine(new string('=', 70));
             Console.WriteLine();
             Console.WriteLine();

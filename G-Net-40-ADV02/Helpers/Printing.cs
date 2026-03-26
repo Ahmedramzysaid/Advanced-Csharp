@@ -26,12 +26,14 @@ namespace G_Net_40_ADV02.Helpers
                 Data.Invoke(product);
             }
         }
-        static  public  void TransformProducts(List<Product> products , Func<Product , string>DataShapePrint )
+        static  public  List<string> TransformProducts(List<Product> products , Func<Product , string>DataShapePrint )
         {
+            List<string> result =  new List<string>();
             foreach (var item in products)
             {
-                Console.WriteLine(DataShapePrint(item));   
+                result.Add(DataShapePrint(item));   
             }
+            return result;
         }
     }
 }

@@ -54,16 +54,19 @@ namespace G_Net_40_ADV02.Services
         }
 
 
-        public  static  void FilterProducts(List<Product> products  ,  Predicate<Product>Stocking)
+        public static List<string>   FilterProducts(List<Product> products  ,  Predicate<Product>Stocking)
         {
-            foreach(var product in products)
+            List<string> result = new List<string>();
+          
+            foreach (var product in products)
             {
                 if(Stocking(product))
                 {
-                    // [LOW STOCK] Laptop: only 10 left! 
-                    Console.WriteLine($"[LOW STOCK] {product.Name}: only {product.Stock} left!");
+
+                    result.Add($"[LOW STOCK] {product.Name}: only {product.Stock} left!");
                 }
             }
+            return result;
         }
 
         public static bool CheckAboutStock(Product product) => product.Stock < 20;
