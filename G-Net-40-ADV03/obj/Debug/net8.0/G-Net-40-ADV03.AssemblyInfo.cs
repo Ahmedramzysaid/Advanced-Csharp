@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G-Net-40-ADV03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66ba7750caa29f2fe19037bef98fd350cbfa7678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad044bb8b2e53e03bb9b2080c8fc990d0a1c0e6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("G-Net-40-ADV03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G-Net-40-ADV03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

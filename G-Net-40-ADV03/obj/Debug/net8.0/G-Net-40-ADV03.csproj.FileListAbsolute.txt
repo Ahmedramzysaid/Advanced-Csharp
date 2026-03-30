@@ -1,0 +1,15 @@
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\bin\Debug\net8.0\G-Net-40-ADV03.exe
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\bin\Debug\net8.0\G-Net-40-ADV03.deps.json
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\bin\Debug\net8.0\G-Net-40-ADV03.runtimeconfig.json
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\bin\Debug\net8.0\G-Net-40-ADV03.dll
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\bin\Debug\net8.0\G-Net-40-ADV03.pdb
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.AssemblyInfoInputs.cache
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.AssemblyInfo.cs
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.csproj.CoreCompileInputs.cache
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.sourcelink.json
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.dll
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\refint\G-Net-40-ADV03.dll
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.pdb
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\G-Net-40-ADV03.genruntimeconfig.cache
+D:\Education\RouteASP Tasks\AdvancedCsharp\G-Net-40-ADV03\obj\Debug\net8.0\ref\G-Net-40-ADV03.dll
