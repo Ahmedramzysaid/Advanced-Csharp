@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV02.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV03.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV02.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv03\\helpers\\helperprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV02.csproj|solutionrelative:helpers\\helperprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV03.csproj|d:\\education\\routeasp tasks\\advancedcsharp\\g-net-40-adv03\\helpers\\helperprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806F980-B863-4151-985E-C062B0290521}|G-Net-40-ADV03.csproj|solutionrelative:helpers\\helperprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Helpers\\HelperPrint.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T00:52:07.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T00:52:07.014Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Education\\RouteASP Tasks\\AdvancedCsharp\\G-Net-40-ADV03\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T00:49:32.145Z",
               "EditorCaption": ""

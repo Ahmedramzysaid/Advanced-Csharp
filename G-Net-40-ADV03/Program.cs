@@ -32,10 +32,27 @@ namespace ConsoleApp1
             Console.WriteLine(new string('=', 70));
             // ===============================================================
             List<int>numberRemove =  new List<int> ();
-            numberRemove.Add(grades.RemoveAll(x => x < 80));
-            Console.WriteLine("Total ELments After Removing Below 80 : ");
+            numberRemove.Add(grades.RemoveAll(x => x < 75));
+            Console.WriteLine("Total ELments After Removing Below 75 : ");
             HelperPrint.Print(numberRemove);
             Console.WriteLine(new string('=', 70));
+            // Check if any grade equals 100
+            bool Flag100 = grades.Contains(100);
+            if (Flag100)
+            {
+                Console.WriteLine("There is a grade that equals 100.");
+            }
+            else
+            {
+                Console.WriteLine("There is no grade that equals 100.");
+            }
+            //Create a List<string> where each grade becomes "Grade: X"
+            List<string> GradeStrings = grades.Select(x => $"Grade: {x}").ToList();
+            Console.WriteLine("Grades as Strings : ");
+            GradeStrings.ForEach(x => Console.WriteLine(x));
+            Console.WriteLine(new string('=', 70));
+
+
             // ===============================================================
             #endregion
             #region Exercise 2: Leaderboard
